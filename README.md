@@ -47,6 +47,12 @@ VIM plugin
 cd ~/.vim/bundle
 git clone https://github.com/junegunn/fzf.vim
 ```
+
+VIM .vimrc - need to add runtime path for fzf
+```
+set rtp+=~/.fzf
+```
+
 Repository:
 [FZF](https://github.com/junegunn/fzf)
 [FZF-Vim](https://github.com/junegunn/fzf.vim)
