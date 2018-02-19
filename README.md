@@ -1,6 +1,12 @@
 # vimsetup
 Setup for vim
 
+##.vimrc
+```
+set tabstop=4
+set shiftwidth=4
+set expandtab
+```
 ## Pathogen
 
 Add-ons manager
